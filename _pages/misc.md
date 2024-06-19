@@ -37,4 +37,4 @@ These projects welcome contributions! You can suggest improvements, provide addi
 
 ### Contact
 
-For questions, suggestions, or collaborations, feel free to get in touch via [email](mailto:dccastiblanco@unbosque.edu.co).
+For questions, suggestions, or collaborations, feel free to get in touch via [email](mailto:dancarolinii@gmail.com).
