@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carolina Castiblanco-González"
+title                    : "Carolina González"
 title_separator          : "-"
-name                     : &name "Carolina Castiblanco-González"
+name                     : &name "Carolina González"
 description              : &description "Assistant professor in statistics at Dalhousie University"
 url                      : https://dancarolinii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carolina Castiblanco-González"
+  name             : "Carolina González"
   avatar           : "https://avatars.githubusercontent.com/u/155687412?v=4"
   bio              : # "Assistant professor in statistics at Dalhousie University"
   location         : # "Halifax, Canada"
